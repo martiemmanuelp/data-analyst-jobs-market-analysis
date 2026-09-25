@@ -40,7 +40,7 @@ New York has by far the most job openings at 310 postings, but if salary is the 
 
 ## Charts
 
-![Salary by Title](visuals/salary_by_title.png)
+![Salary by Title]([visuals/salary_by_title.png](https://github.com/martiemmanuelp/data-analyst-jobs-market-analysis/blob/main/visuals/salary_by_title.png))
 ![State Scatter](visuals/state_scatter.png)
 ![Salary by Industry](visuals/salary_by_industry.png)
 ![City Bubble](visuals/city_bubble.png)

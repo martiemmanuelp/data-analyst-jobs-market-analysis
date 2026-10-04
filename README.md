@@ -38,6 +38,8 @@ New York has by far the most job openings at 310 postings, but if salary is the 
 
 [View the full Tableau dashboard here](https://public.tableau.com/app/profile/marti.pineda/viz/DataAnalystJobMarketAnalysis_17902732483610/DataAnalystJobMarketAnalysis#1)
 
+Also includes an Excel dashboard with PivotTables and Power Query for stakeholders who prefer Excel over Tableau — see DataAnalystJobMarket.xlsx
+
 ## Charts
 
 ![Salary by Title](visuals/salary_by_title.png)
